@@ -85,3 +85,6 @@ examen_deeplearning/
     - Négatif : "I'm disappointed, it's not working at all."
 
 ---
+## Capture
+
+<img width="2238" height="797" alt="image" src="https://github.com/user-attachments/assets/eb548077-d786-463d-b0bd-06ef78b71be4" />
